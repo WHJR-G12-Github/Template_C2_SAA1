@@ -11,9 +11,9 @@ WHITE=(255,255,255)
 enemy=pygame.Rect(100,100,30,30)
 pygame.draw.rect(screen,WHITE,enemy)
 # Create a variable 'xvel' and assign the value '2' to it
-xvel=5
+xvel=
 # Create a variable 'yvel' and assign the value '3' to it
-yvel=5
+yvel=
 # Game loop
 while True:
     # Code to close the game window
